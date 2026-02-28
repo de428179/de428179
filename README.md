@@ -8,15 +8,8 @@ Apasionado por el análisis complejo y los algoritmos.
 ---
 
 ## 🌊 Integral de Cauchy
-
-![Integral de Cauchy](cauchy.gif)
-
----
-
-\[
-f(a)=\frac{1}{2\pi i}\int_C \frac{f(z)}{z-a} dz
-\]
+![Integral de Cauchy](cauchy.svg)
 
 ---
 
-"La matemática no se memoriza, se comprende."
+f(a) = 1 / (2πi) ∮₍C₎ f(z)/(z - a) dz
